@@ -16,7 +16,7 @@ public class HomeWork_1 {
         double bodyMassIndex = (weigh / (heigh * heigh));
         System.out.println(bodyMassIndex);
 
-        //Задача3
+        //Задача 3
         char[] myArray = new char[5];
         myArray[0] = 'a';
         myArray[1] = 'b';
